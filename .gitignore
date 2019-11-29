@@ -37,3 +37,7 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+# IntelliJ IDEA files
+.idea
+Projects.iml
