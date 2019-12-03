@@ -41,3 +41,4 @@ nosetests.xml
 # IntelliJ IDEA files
 .idea
 Projects.iml
+target
